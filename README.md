@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run using git bash:
+In the project directory, you can run git bash command:
 
 ### `npm start`
 
